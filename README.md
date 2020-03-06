@@ -1,2 +1,4 @@
 # hello-world
-hello world starter tutorial
+hello to all the hum beings out there!
+
+Greetings from the inter-webz
